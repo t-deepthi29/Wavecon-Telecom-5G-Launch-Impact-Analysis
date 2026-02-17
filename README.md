@@ -1,13 +1,13 @@
 #📡 Wavecon Telecom – 5G Launch Impact Analysis
 
-**📌 Project Overview
+**📌 Project Overview**
 
 This project analyzes the business impact of the 5G launch by Wavecon Telecom in India.
 The analysis evaluates how the introduction of 5G affected revenue, customer base, service plans, and user behavior across multiple cities.
 
 The dashboard is designed to help business leaders understand post-5G performance, identify underperforming KPIs, and make data-driven strategic decisions.
 
-**🎯 Business Objective
+**🎯 Business Objective**
 
 ⭐Assess the impact of 5G launch on key business metrics
 
@@ -19,7 +19,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ⭐Support decision-making for plan optimization and customer retention
 
-**⏱️ Analysis Scope
+**⏱️ Analysis Scope**
 
 ⭐Launch Period: May 2022
 
@@ -31,7 +31,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ⭐Coverage: 15 major cities across India
 
-**📊 Key KPIs Analyzed
+**📊 Key KPIs Analyzed**
 
 💰 Revenue
 
@@ -41,9 +41,9 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 📈 ARPU (Average Revenue Per User)
 
-**🔍 Performance Analysis
+**🔍 Performance Analysis**
 
-**💰 Revenue Impact:
+**💰 Revenue Impact:**
 
 ➤ Overall revenue remained nearly stable after the 5G launch
 
@@ -51,33 +51,33 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ➤ Indicates mixed adoption and regional variation in 5G acceptance
 
-**👥 User Behavior (TAU):
+**👥 User Behavior (TAU):**
 
 ➤ Total Active Users declined significantly post-5G
 
 ➤ Highlights challenges in customer retention after the launch
 
-**🚪 Customer Unsubscription (TUSU):
+**🚪 Customer Unsubscription (TUSU):**
 
 ➤ Sharp increase in unsubscribed users after 5G
 
 ➤ Suggests migration issues, pricing sensitivity, or plan mismatch
 
-**📦 Service Plan Performance
+**📦 Service Plan Performance**
 
-**✅ Well-Performing Plan:
+**✅ Well-Performing Plan:**
 
 ➤ Plan P1 showed strong revenue growth after 5G launch
 
 ➤ Indicates customer preference for 5G-aligned offerings
 
-**❌ Underperforming Plans:
+**❌ Underperforming Plans:**
 
 ➤ Plans P4, P5, P6, and P7 showed revenue decline
 
 ➤ Plan P7 was the most affected due to legacy 3G/4G dependency
 
-**🚨 Business Recommendation:
+**🚨 Business Recommendation:**
 
 ➤ Discontinue or redesign legacy plans
 
@@ -85,7 +85,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ➤ Focus on plans aligned with high-speed data consumption patterns
 
-**📈 Key Insights
+**📈 Key Insights**
 
 ⭐ Revenue remained stable, but customer retention weakened
 
@@ -95,9 +95,9 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ⭐ 5G adoption requires better pricing, communication, and plan redesign
 
-**🛠️ Tools & Skills Used
+**🛠️ Tools & Skills Used**
 
-**🔧 Technical Skills:
+**🔧 Technical Skills:**
 
 ➤ Power BI
 
@@ -109,7 +109,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ➤ Interactive Dashboard Design
 
-**🧠 Analytical Skills:
+**🧠 Analytical Skills:**
 
 ➤ Business Impact Analysis
 
@@ -121,7 +121,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ➤ Strategic Recommendation Building
 
-**📚 Key Learnings
+**📚 Key Learnings**
 
 ➤ Evaluated technology launch impact using real business metrics
 
@@ -131,7 +131,7 @@ The dashboard is designed to help business leaders understand post-5G performanc
 
 ➤ Learned how to convert insights into business recommendations
 
-**🚀 Why This Project Matters
+**🚀 Why This Project Matters**
 
 This project demonstrates my ability to:
 
@@ -145,6 +145,6 @@ This project demonstrates my ability to:
 
 🙌 This project was completed as part of a business analytics learning initiative focused on real-world case studies.
 
-**🔗 Lets Connect
+**🔗 Lets Connect**
 
 📧 Email: deepthitirunagari4@gmail.com
