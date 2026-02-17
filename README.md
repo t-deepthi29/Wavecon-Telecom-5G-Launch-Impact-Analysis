@@ -1,4 +1,4 @@
-#📡 Wavecon Telecom – 5G Launch Impact Analysis
+# 📡 Wavecon Telecom – 5G Launch Impact Analysis
 
 **📌 Project Overview**
 
